@@ -43,7 +43,7 @@ function drawChart() {
 
 </script>
 
-<div id="handelszeiten" style="height:400px;"></div>
+<div id="handelszeiten" style="height:420px;"></div>
 
 <script type="text/javascript">
 google.charts.load("current", {packages:["timeline"]});
@@ -73,4 +73,4 @@ function drawChart() {
 
 </script>
 
-<div id="wochenendhandel" style="height:100px;"></div>
+<div id="wochenendhandel" style="height:120px;"></div>
