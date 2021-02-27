@@ -73,4 +73,4 @@ function drawChart() {
 
 </script>
 
-<div id="wochenendhandel" style="height:125px;"></div>
+<div id="wochenendhandel" style="height:122px;"></div>
