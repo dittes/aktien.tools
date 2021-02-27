@@ -1,10 +1,6 @@
 ## Handelszeiten
 Die Handelszeiten der verschiedenen Börsen unterscheiden sich stark voneinander. Das liegt vor allem an den verschiedenen Zeitzonen. Wir haben die Öffnungszeiten der Börsen hier für euch zusammengestellt.
 
-## 1
-## 2
-## 3
-
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
 <script type="text/javascript">
@@ -47,7 +43,7 @@ function drawChart() {
 
 </script>
 
-<div id="handelszeiten" style="height: 420px;padding-top:200px;"></div>
+<div id="handelszeiten"></div>
 
 <script type="text/javascript">
 google.charts.load("current", {packages:["timeline"]});
@@ -77,4 +73,4 @@ function drawChart() {
 
 </script>
 
-<div id="wochenendhandel" style="height: 140px;"></div>
+<div id="wochenendhandel"></div>
