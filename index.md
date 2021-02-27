@@ -43,7 +43,7 @@ function drawChart() {
 
 </script>
 
-<div id="handelszeiten" style="height:420px;"></div>
+<div id="handelszeiten" style="height:400px;"></div>
 
 <script type="text/javascript">
 google.charts.load("current", {packages:["timeline"]});
